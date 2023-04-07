@@ -1,0 +1,39 @@
+/* Set the background color of the body to light gray */
+body {
+    background-color: #f2f2f2;
+    font-family: Arial, sans-serif;
+    font-size: 18px;
+  }
+  
+  /* Center the content on the page */
+  #pic, #name, #last, #email, #phone {
+    max-width: 600px;
+  }
+  
+  /* Style the image */
+  #pic {
+    display: block;
+    width: 100%;
+    height: auto;
+    margin-bottom: 20px;
+  }
+  
+  /* Style the divs that contain the text */
+  div {
+    line-height: 1.5;
+    margin-bottom: 10px;
+  }
+  
+  /* Style the first div to display the first name in bold */
+  #name {
+    font-weight: bold;
+  }
+  
+  /* Style the email and phone divs to display in italics */
+  #email, #phone {
+    font-style: italic;
+  }
+  
+  /* Add some icons to the page */
+
+  
